@@ -30,9 +30,10 @@ pinout: <img width="714" height="552" alt="image" src="https://github.com/user-a
 
 I2C protokol: <img width="562" height="790" alt="image" src="https://github.com/user-attachments/assets/1d1602cb-9ae0-4651-8a36-67243e82920c" />
 
+vezava: ![Image](https://github.com/user-attachments/assets/3bd232a3-22b8-4d37-af83-ef81b853b277)
 
 
-
+KOMENTAR: Najprej sva povezala vse komponente na protoboard in nastavila parameter settings nato pa sva z malo pomoči napisala kodo ki je imela najprej 9 errorjev ki sva jih brez problema odpravila in vezje je delovalo brez problema.
 
 
 
