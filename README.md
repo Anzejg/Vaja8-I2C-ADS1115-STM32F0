@@ -25,8 +25,10 @@ B) 48 HEX
 E) max. napetost je 6.144V
 
 
+pinout: <img width="714" height="552" alt="image" src="https://github.com/user-attachments/assets/29d7f0f4-1056-4121-b36a-b2c24c7efea0" />
 
 
+I2C protokol: <img width="562" height="790" alt="image" src="https://github.com/user-attachments/assets/1d1602cb-9ae0-4651-8a36-67243e82920c" />
 
 
 
